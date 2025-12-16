@@ -53,6 +53,17 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu)
 
+
+<h3>🏆 TryHackMe</h3>
+<p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ai.swarup.png" />
+</p>
+
+#### 🧰 Dev Tools
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-F26B3A?style=flat-square&logo=postman)
+
+
 #### 🧰 Dev Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-F26B3A?style=flat-square&logo=postman)
