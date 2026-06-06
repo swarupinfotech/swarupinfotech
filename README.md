@@ -14,14 +14,15 @@
 
 ## 👨‍💻 About Me
 
-I’m **Swarup Mahato**, a **Full-Stack Engineer, Cybersecurity Researcher, and Founder** focused on building **secure, scalable, and high-impact digital products**.
+I’m **Swarup Mahato**, a **Security Researcher and Full-Stack Engineer** passionate about building **secure, scalable, and high-performance software systems**.
 
-- 🚀 Founder & CEO at **SwarupInfotech Pvt Ltd**
-- 🛡️ Ethical Hacker | Bug Bounty Enthusiast | Security Researcher
+- 🛡️ Application Security | Security Research | VAPT
 - 💻 Full-Stack Development: Frontend, Backend & System Design
-- ⚙️ Experience with real-world deployment, performance & security
-- ☁️ 2026 Goal: Advanced **Cloud, DevSecOps & Secure Architectures**
-- 📚 Continuous learner with a strong documentation-first mindset
+- 🔐 Secure Software Development & Web Application Security
+- ⚙️ Scalable Systems, Automation & Performance Optimization
+- ☁️ Cloud Security, DevSecOps & Modern Architectures
+- 🚀 Founder @ **SwarupInfotech Pvt Ltd**
+- 📚 Continuous learning, research, and technical excellence
 
 ---
 
